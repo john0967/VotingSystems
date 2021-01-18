@@ -11,7 +11,7 @@ this app will have many different features like
         ,Auditability
         ,Efficiency
         ,Precision
-        ,Reliability
+        ,Reliabilities
 ## Team Members
 ### Name ...............ID.................Responsibilities 
 Yohans Kasie........... 1358 ...............Project manager<br>
