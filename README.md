@@ -21,3 +21,6 @@ Hanan Hamid.............1218............... coder<br>
 Lidiya Yohannis.........1240 .............. Designer<br>
 ## App OVerview
 ![Screenshot_20210118-140446](https://user-images.githubusercontent.com/76650033/104908679-dac1cd80-5997-11eb-9810-c8c5a960eb37.png)
+![Screenshot_20210118-142427](https://user-images.githubusercontent.com/76650033/104909580-1e690700-5999-11eb-84b4-a53dd521ed22.png)
+![Screenshot_20210118-142448](https://user-images.githubusercontent.com/76650033/104909583-1f9a3400-5999-11eb-9640-c2dbe7386e5c.png)
+![Screenshot_20210118-142513](https://user-images.githubusercontent.com/76650033/104909584-2032ca80-5999-11eb-8b6d-6539e681fbd1.png)
