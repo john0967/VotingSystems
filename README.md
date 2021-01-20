@@ -12,7 +12,7 @@ this app will have many different features like
         ,Auditability
         ,Efficiency
         ,Precision
-        ,Reliabilities
+        , Reliability
 ## Team Members
 ### Name ...............ID.................Responsibilities 
 Yohans Kasie........... DBUR/1358/10 ...............Project manager<br>
